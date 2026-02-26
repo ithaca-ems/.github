@@ -5,42 +5,49 @@
 </p>
 
 <p align="center">
-  <strong>Technology built for emergency medical services.</strong>
+  <strong>Building the operating system for emergency medical services.</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ODIN-EMS%20ERP-0A7EA4?style=for-the-badge" alt="ODIN EMS ERP" />
-  <img src="https://img.shields.io/badge/Region-South%20Africa-1A7F37?style=for-the-badge" alt="Region South Africa" />
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fithaca.co.za&style=for-the-badge&label=website" alt="Website status" />
+  <img src="https://img.shields.io/badge/STATUS-LIVE%20PRODUCT-1A7F37?style=for-the-badge" alt="Live product status" />
+  <img src="https://img.shields.io/badge/REGION-SOUTH%20AFRICA-0E7490?style=for-the-badge" alt="Region South Africa" />
   <img src="https://img.shields.io/github/last-commit/ithaca-ems/.github?style=for-the-badge&label=profile%20update" alt="Profile update" />
   <img src="https://img.shields.io/github/commit-activity/m/ithaca-ems/.github?style=for-the-badge&label=activity" alt="Monthly activity" />
   <img src="https://img.shields.io/github/followers/ithaca-ems?style=for-the-badge&label=followers" alt="GitHub followers" />
 </p>
 
+<p align="center">
+  <a href="https://ithaca.co.za"><img src="https://img.shields.io/badge/Website-ithaca.co.za-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ithaca website" /></a>
+  <a href="mailto:info@ithaca.co.za"><img src="https://img.shields.io/badge/Contact-info%40ithaca.co.za-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Ithaca email" /></a>
+</p>
+
 ---
 
-## What We Build
+## Why Teams Choose Ithaca
 
-- EMS-first ERP systems for dispatch, operations, and leadership
-- Real-time fleet, resource, and vehicle visibility
-- Digital patient care reporting (PRF) and documentation workflows
-- Compliance and regulatory automation for healthcare operations
-- Claims, billing, and operational finance processes
-- Asset and inventory control across teams and stations
+- Mission-critical EMS workflows designed for real operational pressure
+- One command center for dispatch, fleet, finance, compliance, and PRF data
+- Real-time visibility across vehicles, resources, and response performance
+- Built for South African EMS realities, regulation, and reporting standards
 
 ## ODIN ERP
 
-ODIN ERP is Ithaca's platform for emergency medical services in South Africa.
+ODIN ERP gives EMS leaders total control over operations, patient documentation, and performance.
 
-One platform. End-to-end operational visibility.
+From call-to-cash, every moving part in one platform.
 
-## Featured Repositories
+## Product Snapshot
 
-Most product repositories are private. The profile repository is public:
+- Platform: ODIN ERP
+- Focus: Emergency medical services operations and documentation
+- Availability: Production deployments and private implementation repositories
+
+## Public Repository
 
 - [`ithaca-ems/.github`](https://github.com/ithaca-ems/.github) - organization profile and shared GitHub metadata
 
-## Learn More
+## Get In Touch
 
 - Website: https://ithaca.co.za
-- Contact: info@ithaca.co.za
+- Email: info@ithaca.co.za
