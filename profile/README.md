@@ -37,6 +37,20 @@ ODIN ERP gives EMS leaders total control over operations, patient documentation,
 
 From call-to-cash, every moving part in one platform.
 
+## Product Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JoO0PyOQr2A">
+    <img src="https://img.youtube.com/vi/JoO0PyOQr2A/maxresdefault.jpg" alt="Watch ODIN ERP demo" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JoO0PyOQr2A">
+    <img src="https://img.shields.io/badge/Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch demo video" />
+  </a>
+</p>
+
 ## Product Snapshot
 
 - Platform: ODIN ERP
